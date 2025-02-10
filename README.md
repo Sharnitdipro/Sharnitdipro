@@ -11,17 +11,17 @@ I am a **Computer Science graduate** currently pursuing my **Master's in Managem
 - 🛠️ **Process Automation & Optimization**  
 
 ## 📂 **Featured Projects**
-### 🔹 [E-Commerce Regression Analysis](https://github.com/yourusername/Ecommerce-Regression-Analysis)  
+### 🔹 [E-Commerce Regression Analysis](https://github.com/Sharnitdipro/Ecommerce-Regression-Analysis)  
 **Technologies:** Python, Pandas, Scikit-Learn, Matplotlib  
 - Developed a **predictive model** to analyze **customer spending patterns** in an e-commerce dataset.  
 - Used **Linear Regression** to optimize **pricing strategies** and improve **sales forecasting**.  
 
-### 🔹 [Flight Management System](https://github.com/yourusername/Flight-Management-System)  
+### 🔹 [Flight Management System](https://github.com/Sharnitdipro/Flight-Management-System)  
 **Technologies:** SQL, JavaScript, PHP, XAMPP  
 - Designed and implemented a **data-driven flight booking system** with real-time tracking.  
 - Improved booking efficiency by **30%** through optimized SQL queries.  
 
-### 🔹 [Restaurant Management System](https://github.com/yourusername/Restaurant-Management-System)  
+### 🔹 [Restaurant Management System](https://github.com/Sharnitdipro/Restaurant-Management-System)  
 **Technologies:** PHP (MVC), MySQL, HTML, CSS, JavaScript  
 - Built a **data-centric restaurant platform** with **customer segmentation & order insights**.  
 - Integrated **business analytics** to improve **menu recommendations**.  
