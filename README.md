@@ -36,21 +36,6 @@ I am a **Computer Science graduate** currently pursuing my **Master's in Managem
 
 ---
 
-## 📂 **Featured Projects**
-### 🔹 [E-Commerce Regression Analysis](https://github.com/Sharnitdipro/Ecommerce-Regression-Analysis)  
-- Developed a **predictive model** to analyze **customer spending patterns** in an e-commerce dataset.  
-- Used **Linear Regression** to optimize **pricing strategies** and improve **sales forecasting**.  
-
-### 🔹 [Flight Management System](https://github.com/Sharnitdipro/Flight-Management-System)  
-- Designed and implemented a **data-driven flight booking system** with real-time tracking.  
-- Improved booking efficiency by **30%** through optimized SQL queries.  
-
-### 🔹 [Restaurant Management System](https://github.com/Sharnitdipro/Restaurant-Management-System)  
-- Built a **data-centric restaurant platform** with **customer segmentation & order insights**.  
-- Integrated **business analytics** to improve **menu recommendations**.  
-
----
-
 ## 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharnitsaha)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)  
